@@ -1,3 +1,5 @@
+/*again trial*/
+
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -22,10 +24,10 @@ if(n%2==0){
      
     for(int i = 0 ; i<n/2; i++){
         if(a[i]!=b[i]){
-           cout<<"NO";
+           cout<<"NO"; 
            break;
-           }
-           else{
+           }                                 
+           else{                  
             cout<<"YES";
             break;
            }
